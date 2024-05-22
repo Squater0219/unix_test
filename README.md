@@ -1,5 +1,5 @@
 mkdir git_practice
-cd git_practic
+cd git_practice
 git init
 git add README.md
 git commit -m "my commit"
